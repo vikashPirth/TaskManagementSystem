@@ -1,1 +1,5 @@
 .idea
+.idea/misc.xml
+__pycache__/
+db/__pycache__/
+db/models/__pycache__
